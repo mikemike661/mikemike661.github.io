@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: landing
 title: Pibble
 ---
 
 # RECRUITS
 
-# Dean
+## Dean
 
-## Tall
+### Tall
 
-## Run fast
+## Breyen
 
-# Breyen
+### Gay
 
-## Gay
